@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+var obj1 = {user: "Jon", age:22, country:"USA"};
+var obj2 = {user: "mike", age:55, country:"Italy"};
+var obj3 = {user: "Joe", age:30, country:"Germany"};
+var obj4 = {u1:obj1, u2:obj2, u3:obj3};
+document.write(obj1.user);
+
+</script>
+</head>
+<body>
+</body>
+</html>
